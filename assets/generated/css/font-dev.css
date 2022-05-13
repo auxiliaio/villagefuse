@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+@font-face {
+    font-display: swap;
+    font-family: GT-Haptik-Bold;
+    src: url(/assets/fonts/GT-Haptik-Bold/GT-Haptik-Bold.woff2) format("woff2"), url(/assets/fonts/GT-Haptik-Bold/GT-Haptik-Bold.woff) format("woff"), url(/assets/fonts/GT-Haptik-Bold/GT-Haptik-Bold.ttf) format("truetype")
+}
+
+@font-face {
+    font-display: swap;
+    font-family: GT-Haptik-Medium;
+    src: url(/assets/fonts/GT-Haptik-Medium/GT-Haptik-Medium.woff2) format("woff2"), url(/assets/fonts/GT-Haptik-Medium/GT-Haptik-Medium.woff) format("woff"), url(/assets/fonts/GT-Haptik-Medium/GT-Haptik-Medium.ttf) format("truetype")
+}
+
+@font-face {
+    font-display: swap;
+    font-family: GT-Haptik-Regular;
+    src: url(/assets/fonts/GT-Haptik-Regular/GT-Haptik-Regular.woff2) format("woff2"), url(/assets/fonts/GT-Haptik-Regular/GT-Haptik-Regular.woff) format("woff"), url(/assets/fonts/GT-Haptik-Regular/GT-Haptik-Regular.ttf) format("truetype")
+}
+
+@font-face {
+    font-display: swap;
+    font-family: IvarDisplay-SemiBoldItalic;
+    src: url(/assets/fonts/IvarDisplay-SemiBoldItalic/IvarDisplay-SemiBoldItalic.woff2) format("woff2"), url(/assets/fonts/IvarDisplay-SemiBoldItalic/IvarDisplay-SemiBoldItalic.woff) format("woff"), url(/assets/fonts/IvarDisplay-SemiBoldItalic/IvarDisplay-SemiBoldItalic.ttf) format("truetype")
+}

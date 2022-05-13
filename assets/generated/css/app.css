@@ -1,29 +1,3 @@
-@charset "UTF-8";
-
-@font-face {
-    font-display: swap;
-    font-family: GT-Haptik-Bold;
-    src: url(/assets/fonts/GT-Haptik-Bold/GT-Haptik-Bold.woff2) format("woff2"), url(/assets/fonts/GT-Haptik-Bold/GT-Haptik-Bold.woff) format("woff"), url(/assets/fonts/GT-Haptik-Bold/GT-Haptik-Bold.ttf) format("truetype")
-}
-
-@font-face {
-    font-display: swap;
-    font-family: GT-Haptik-Medium;
-    src: url(/assets/fonts/GT-Haptik-Medium/GT-Haptik-Medium.woff2) format("woff2"), url(/assets/fonts/GT-Haptik-Medium/GT-Haptik-Medium.woff) format("woff"), url(/assets/fonts/GT-Haptik-Medium/GT-Haptik-Medium.ttf) format("truetype")
-}
-
-@font-face {
-    font-display: swap;
-    font-family: GT-Haptik-Regular;
-    src: url(/assets/fonts/GT-Haptik-Regular/GT-Haptik-Regular.woff2) format("woff2"), url(/assets/fonts/GT-Haptik-Regular/GT-Haptik-Regular.woff) format("woff"), url(/assets/fonts/GT-Haptik-Regular/GT-Haptik-Regular.ttf) format("truetype")
-}
-
-@font-face {
-    font-display: swap;
-    font-family: IvarDisplay-SemiBoldItalic;
-    src: url(/assets/fonts/IvarDisplay-SemiBoldItalic/IvarDisplay-SemiBoldItalic.woff2) format("woff2"), url(/assets/fonts/IvarDisplay-SemiBoldItalic/IvarDisplay-SemiBoldItalic.woff) format("woff"), url(/assets/fonts/IvarDisplay-SemiBoldItalic/IvarDisplay-SemiBoldItalic.ttf) format("truetype")
-}
-
 .container {
     max-width: 1440px;
     margin-right: auto;
@@ -1693,7 +1667,7 @@ section#capabilities__approach .approach .approach__item:hover svg path {
 
 section#about__wins {
     background-color: #ebeef0;
-    background-image: url(/assets/images/about/about-us-wins-bg.jpg);
+    background-image: url(/villagefuse/assets/images/about/about-us-wins-bg.jpg);
     background-position: left bottom;
     background-repeat: no-repeat;
     background-size: 240%;
@@ -1880,7 +1854,7 @@ section#about__wins .bottom__stamp {
 (-webkit-min-device-pixel-ratio:2),
 (min-resolution:192dpi) {
     section#about__wins {
-        background-image: url(/assets/images/about/about-us-wins-bg@2x.jpg)
+        background-image: url(/villagefuse/assets/images/about/about-us-wins-bg@2x.jpg)
     }
 }
 
@@ -2117,7 +2091,7 @@ section#capabilities__list .capability a.capability__case::before {
 
 #about__team-culture {
     background-color: #e8edef;
-    background-image: url(/assets/images/about/about-us-culture-bg.jpg);
+    background-image: url(/villagefuse/assets/images/about/about-us-culture-bg.jpg);
     background-position: left top;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -2142,7 +2116,7 @@ section#capabilities__list .capability a.capability__case::before {
 (-webkit-min-device-pixel-ratio:2),
 (min-resolution:192dpi) {
     #about__team-culture {
-        background-image: url(/assets/images/about/about-us-culture-bg@2x.jpg)
+        background-image: url(/villagefuse/assets/images/about/about-us-culture-bg@2x.jpg)
     }
 }
 
@@ -2595,7 +2569,7 @@ section#capabilities__list .capability a.capability__case::before {
 }
 
 #about__team-culture .culture {
-    background-image: url(/assets/images/about/bg-culture.jpg);
+    background-image: url(/villagefuse/assets/images/about/bg-culture.jpg);
     background-position: left top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2627,7 +2601,7 @@ section#capabilities__list .capability a.capability__case::before {
 (-webkit-min-device-pixel-ratio:2),
 (min-resolution:192dpi) {
     #about__team-culture .culture {
-        background-image: url(/assets/images/about/bg-culture@2x.jpg)
+        background-image: url(/villagefuse/assets/images/about/bg-culture@2x.jpg)
     }
 }
 
@@ -9083,7 +9057,7 @@ section#retrn__news {
 }
 
 section#retrn__news::before {
-    background: url(/assets/images/retrn/news-bg.svg) no-repeat center center;
+    background: url(/villagefuse/assets/images/retrn/news-bg.svg) no-repeat center center;
     bottom: 0;
     content: "";
     -o-object-fit: cover;
